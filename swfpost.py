@@ -10,3 +10,4 @@ request = urllib2.Request(
 opener.open(request)
 //nothing
 //creat a new branch is quick
+Creating a new branch is quick & simple.
