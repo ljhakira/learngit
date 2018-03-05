@@ -8,3 +8,4 @@ request = urllib2.Request(
         headers = {'Content-Type' : 'text/xml'},
         data    = data)
 opener.open(request)
+//nothing
